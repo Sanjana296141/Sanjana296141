@@ -50,4 +50,5 @@ I love cooking 👩‍🍳 and coding 💻 — so I built **Ymelly** to combine 
 ---
 
 ### 🚀 My Projects
-- 🔗 **Ymelly**: https://github.com/Sanjana296141/ymelly  
+- 🔗 **Ymelly**: https://github.com/Sanjana296141/ymelly
+- 🔗 **smart-leads-dashboard**: https://github.com/Sanjana296141/smart-leads-dashboard
